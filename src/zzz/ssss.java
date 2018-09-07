@@ -1,5 +1,5 @@
 package zzz;
 
-public class spk {
+public class ssss {
 
 }
